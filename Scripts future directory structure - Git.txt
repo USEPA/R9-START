@@ -1,0 +1,28 @@
+Scripts
+	Development
+		Packages
+			Archive
+			Inventory
+			Backup
+		Notebooks
+			Archive
+			Decommissioning
+			NewProjectSetup
+			LabelAutomation
+			ProProcesses
+			ScheduledUpdates
+	Production
+		Packages
+			Archive
+			Inventory
+			Backup
+		Notebooks
+			Archive
+			Decommissioning
+			NewProjectSetup
+			LabelAutomation
+			ProProcesses
+			ScheduledUpdates
+		
+		
+		
