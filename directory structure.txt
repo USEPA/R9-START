@@ -1,0 +1,28 @@
+Arcade
+-	Development
+-	Production		
+Python	
+-	Development
+-	-	Notebooks
+-	-	-	Decommissioning
+-	-	-	LabelAutomation
+-	-	-	NewProjectSetup
+-	-	-	-	ERTFOS
+-	-	-	-	Geoplatform
+-	-	-	ScheduledUpdates
+-	-	-	-	OverwriteHostedService
+-	-	Packages
+-	Production
+-	-	Notebooks
+-	-	-	Decommissioning
+-	-	-	LabelAutomation
+-	-	-	NewProjectSetup
+-	-	-	-	ERTFOS
+-	-	-	-	Geoplatform
+-	-	-	ScheduledUpdates
+-	-	-	-	OverwriteHostedService
+-	-	Packages
+SQL		
+-	Functions
+-	StoredProcedures
+		
